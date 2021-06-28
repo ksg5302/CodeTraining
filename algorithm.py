@@ -1,5 +1,5 @@
 class Myclass:
-    def __init__(self) -> None:
+    def __init__(self):
         pass
 
     def gugudan(self):
@@ -37,3 +37,4 @@ if __name__ == "__main__":
     mc = Myclass()
     mc.gugudan()
 
+    print()
